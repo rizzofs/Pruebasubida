@@ -1,3 +1,3 @@
 x= "Hola"
-
-print(x)
+a=input("Ingresa tu nombre: ")
+print(x, a)
