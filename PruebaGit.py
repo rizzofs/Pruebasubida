@@ -1,4 +1,5 @@
 x= "Hola"
 z="zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz"
 a=input("Ingresa tu nombre: ")
-print(x, a,z)
+print(x, a)
+print(z)
